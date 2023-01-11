@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,d as n}from"./app.529851a7.js";const u=JSON.parse('{"title":"การตั้งค่า Wifi","description":"","frontmatter":{},"headers":[],"relativePath":"config-wifi.md"}'),t={name:"config-wifi.md"},o=n("",2),i=[o];function c(l,p,r,_,d,f){return e(),a("div",null,i)}const h=s(t,[["render",c]]);export{u as __pageData,h as default};
