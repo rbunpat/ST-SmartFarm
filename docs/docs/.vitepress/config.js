@@ -1,7 +1,7 @@
 export default {
   title: "ST-SmartFarm",
   description: "documentation for ST-SmartFarm project",
-
+//bruh
   themeConfig: {
     nav: [
         { text: "Home", link: "/" }
