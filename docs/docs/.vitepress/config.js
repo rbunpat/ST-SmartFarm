@@ -1,7 +1,6 @@
 export default {
   title: "ST-SmartFarm",
   description: "documentation for ST-SmartFarm project",
-  base: "/smartfarm/",
 
   themeConfig: {
     nav: [
